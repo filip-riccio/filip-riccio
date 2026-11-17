@@ -1,3 +1,5 @@
+[![Filip Riccio: From pizza tickets to software developer. Perth, Western Australia. filip.website](banner.png)](https://filip.website)
+
 ## Hey, I'm Filip
 
 I'm a developer in Perth, Western Australia, finishing a Diploma of IT (Back End Web Development) at [North Metropolitan TAFE](https://www.northmetrotafe.wa.edu.au/).
