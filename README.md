@@ -4,7 +4,7 @@
 
 I'm a developer in Perth, Western Australia, finishing a Diploma of IT (Back End Web Development) at [North Metropolitan TAFE](https://www.northmetrotafe.wa.edu.au/).
 
-I got into software because of paper dockets. My family runs a pizza shop, the phone orders were handwritten, and I figured I could do better. That small order taker kept growing into a full point-of-sale system: card payments, Uber Eats orders flowing straight in, a sales dashboard, and an ESP32 dial the kitchen turned to set the wait time. It ran two stores for three years.
+I got into software because of paper tickets. My family runs a pizza shop, the phone orders were handwritten, and I figured I could do better. That small order taker kept growing into a full point-of-sale system: card payments, Uber Eats orders flowing straight in, a sales dashboard, and an ESP32 dial the kitchen turned to set the wait time. It ran two stores for three years.
 
 These days I mostly build things because I want them to exist:
 
